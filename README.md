@@ -20,7 +20,7 @@ npm i then run node index.js and open insomnia and hit each of the end points
 Class and Teachers
 ## License
 N/A
-## Test
+## Tests
 N/a
 # Questions
 #### for more information please contact me on github or email
